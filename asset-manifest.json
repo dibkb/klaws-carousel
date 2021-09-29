@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/klaws-carousel/static/css/main.ef74477d.chunk.css",
+    "main.js": "/klaws-carousel/static/js/main.ef5a89ef.chunk.js",
+    "main.js.map": "/klaws-carousel/static/js/main.ef5a89ef.chunk.js.map",
+    "runtime-main.js": "/klaws-carousel/static/js/runtime-main.0f9ccc00.js",
+    "runtime-main.js.map": "/klaws-carousel/static/js/runtime-main.0f9ccc00.js.map",
+    "static/js/2.ae7796c8.chunk.js": "/klaws-carousel/static/js/2.ae7796c8.chunk.js",
+    "static/js/2.ae7796c8.chunk.js.map": "/klaws-carousel/static/js/2.ae7796c8.chunk.js.map",
+    "index.html": "/klaws-carousel/index.html",
+    "static/css/main.ef74477d.chunk.css.map": "/klaws-carousel/static/css/main.ef74477d.chunk.css.map",
+    "static/js/2.ae7796c8.chunk.js.LICENSE.txt": "/klaws-carousel/static/js/2.ae7796c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f9ccc00.js",
+    "static/js/2.ae7796c8.chunk.js",
+    "static/css/main.ef74477d.chunk.css",
+    "static/js/main.ef5a89ef.chunk.js"
+  ]
+}
